@@ -20,6 +20,7 @@ The primary goal is to analyze the employee database to:
 #### 1. Data Acquisition:
 
  --> Download the dataset
+ 
  --> Create tables to store the data as described in the dataset.
  
 #### 2. Data Analysis:
